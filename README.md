@@ -9,4 +9,5 @@ It can perform following functionalities-
 * Take screenshot
 * Search in Google
 
+**Project Look**
 ![alt text](https://github.com/Saranya3/Alexa/blob/master/templates/SS.png)
